@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohana</h1>
-<h3 align="center">A passionate AI engineer</h3>
+<h3 align="center">A passionate AI Reseach Engineer</h3>
 
 - 🔭 I’m currently working on **Deep Learning Time Series Forecasting**
 
