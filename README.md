@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Deep Learning Time Series Forecasting**
 
-- 📝 I regularly write Arabic articles about AI on [https://alelyani.com/](https://alelyani.com/)
+- 📝 I regularly write my recent articles, research & projects about AI about AI [HERE](https://www.mohdmohana.com/)
 
 <p align="left">
 </p>
