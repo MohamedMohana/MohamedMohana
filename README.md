@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohana</h1>
 <h3 align="center">A passionate AI Research Engineer</h3>
 
-- 🔭 I’m currently working on **Deep Learning Time Series Forecasting**
+- 🔭 I’m currently working on **RAG LLM**
 
 - 📝 I regularly write my recent articles, research & projects about AI about AI [HERE](https://www.mohdmohana.com/)
 
