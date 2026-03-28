@@ -51,11 +51,9 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img align="center" src="https://raw.githubusercontent.com/MohamedMohana/MohamedMohana/main/assets/github-stats.svg" alt="GitHub Snapshot" />
-</p>
-
-<p align="center">
-  Self-hosted in this repository and refreshed automatically each day.
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mohamedmohana&show_icons=true&include_all_commits=true&count_private=true&theme=radical" alt="GitHub Stats" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohamedmohana&theme=radical" alt="GitHub Streak" />
+  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mohamedmohana&theme=radical" alt="Profile Details" />
 </p>
 
  
