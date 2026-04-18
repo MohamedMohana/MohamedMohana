@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hello, I'm Mohana</h1>
-<h3 align="center">Senior AI Research Engineer | Innovating with RAG & LLMs</h3>
+<h3 align="center">Senior AI Research Engineer | Innovating with Agnets, RAG & LLMs</h3>
 
 <p align="center">
   <a href="https://www.mohdmohana.com/" target="_blank">
