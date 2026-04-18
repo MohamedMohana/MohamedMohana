@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hello, I'm Mohana</h1>
-<h3 align="center">Senior AI Research Engineer | Innovating with Agnets, RAG & LLMs</h3>
+<h3 align="center">Senior AI Research Engineer | Innovating with Agents, RAG & LLMs</h3>
 
 <p align="center">
   <a href="https://www.mohdmohana.com/" target="_blank">
@@ -18,7 +18,7 @@
 ---
 
 ### 🚀 About Me
-- 🔭 Currently exploring **Agnets**, **Retrieval-Augmented Generation (RAG)** and **Large Language Models (LLMs)**.
+- 🔭 Currently exploring **Agents**, **Retrieval-Augmented Generation (RAG)** and **Large Language Models (LLMs)**.
 - 📝 I regularly publish articles, research, and project insights on [mohdmohana.com](https://www.mohdmohana.com/).
 - 🌱 Constantly learning new techniques and staying updated on cutting-edge AI advancements.
 
