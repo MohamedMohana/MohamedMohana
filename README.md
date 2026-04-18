@@ -25,7 +25,6 @@
 ---
 
 ### 🛠️ Languages & Tools
-### 🛠️ Languages & Tools
 
 |  |  |  |  |  |  |
 |---|---|---|---|---|---|
