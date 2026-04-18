@@ -18,7 +18,7 @@
 ---
 
 ### 🚀 About Me
-- 🔭 Currently exploring **Retrieval-Augmented Generation (RAG)** and **Large Language Models (LLMs)**.
+- 🔭 Currently exploring **Agnets**, **Retrieval-Augmented Generation (RAG)** and **Large Language Models (LLMs)**.
 - 📝 I regularly publish articles, research, and project insights on [mohdmohana.com](https://www.mohdmohana.com/).
 - 🌱 Constantly learning new techniques and staying updated on cutting-edge AI advancements.
 
