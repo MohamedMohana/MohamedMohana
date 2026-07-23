@@ -1,0 +1,26 @@
+name: Latest Blog Posts
+
+on:
+  schedule:
+    - cron: "0 3 * * *" # daily, 06:00 Riyadh time
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - ".github/workflows/blog-posts.yml"
+
+permissions:
+  contents: write
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: "https://www.mohdmohana.com/post/index.xml"
+          max_post_count: 6
+          date_format: "mmm d, yyyy"
+          template: "- [$title]($url) — $date$newline"
+          commit_message: "docs: refresh latest blog posts"
