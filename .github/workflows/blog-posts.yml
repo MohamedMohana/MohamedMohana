@@ -22,5 +22,5 @@ jobs:
           feed_list: "https://www.mohdmohana.com/post/index.xml"
           max_post_count: 6
           date_format: "mmm d, yyyy"
-          template: "- [$title]($url) — $date$newline"
+          template: "$newline- [$title]($url) — $date"
           commit_message: "docs: refresh latest blog posts"
