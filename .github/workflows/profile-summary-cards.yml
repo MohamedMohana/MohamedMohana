@@ -12,17 +12,27 @@ on:
 permissions:
   contents: write
 
+# Card generation queries user-level contribution data via GraphQL, which the
+# default Actions token cannot access. Add a classic PAT with read:user scope
+# as the PERSONAL_TOKEN repo secret; until then the refresh is skipped and the
+# last committed cards keep being served.
+env:
+  HAS_PAT: ${{ secrets.PERSONAL_TOKEN != '' }}
+
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+        if: env.HAS_PAT == 'true'
       - uses: vn7n24fzkq/github-profile-summary-cards@release
+        if: env.HAS_PAT == 'true'
         env:
-          # Needs a classic PAT with read:user scope (repo secret PERSONAL_TOKEN);
-          # the default Actions token cannot read user-level contribution data.
-          GITHUB_TOKEN: ${{ secrets.PERSONAL_TOKEN || secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.PERSONAL_TOKEN }}
         with:
           USERNAME: ${{ github.repository_owner }}
           BRANCH_NAME: main
           UTC_OFFSET: 3
+      - name: Skipped — PERSONAL_TOKEN secret not set
+        if: env.HAS_PAT != 'true'
+        run: echo "PERSONAL_TOKEN repo secret is missing; skipping card refresh. Cards stay as last committed."
