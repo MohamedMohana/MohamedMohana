@@ -108,11 +108,10 @@
 
 ## ✍️ Latest Articles
 
-<!-- BLOG-POST-LIST:START -->
-- [فخ فصل الموظفين بسبب الذكاء الاصطناعي](https://www.mohdmohana.com/post/the-ai-layoff-trap-ar/) — Apr 30, 2026
+<!-- BLOG-POST-LIST:START -->- [فخ فصل الموظفين بسبب الذكاء الاصطناعي](https://www.mohdmohana.com/post/the-ai-layoff-trap-ar/) — Apr 30, 2026
 - [The AI Layoff Trap - Why AI Layoffs Can Hurt Companies Too](https://www.mohdmohana.com/post/the-ai-layoff-trap/) — Apr 30, 2026
-- [كل ما تحتاج معرفته عن تقييم نماذج اللغة الكبيرة (LLM) - المعايير ولوحات التصنيف](https://www.mohdmohana.com/post/llms-leadboards-ar/) — Jun 29, 2025
-- [كل ما تحتاج معرفته عن نماذج اللغة الكبيرة (LLM) - مقارنة شاملة بين المصادر المغلقة والمفتوحة والمعايير الحاسمة](https://www.mohdmohana.com/post/which-llm-ar/) — Jun 26, 2025
+- [كل ما تحتاج معرفته عن تقييم نماذج اللغة الكبيرة &lpar;LLM&rpar; - المعايير ولوحات التصنيف](https://www.mohdmohana.com/post/llms-leadboards-ar/) — Jun 29, 2025
+- [كل ما تحتاج معرفته عن نماذج اللغة الكبيرة &lpar;LLM&rpar; - مقارنة شاملة بين المصادر المغلقة والمفتوحة والمعايير الحاسمة](https://www.mohdmohana.com/post/which-llm-ar/) — Jun 26, 2025
 - [هندسة النصوص التوجيهية، والتوليد المعزز بالاسترجاع، والتخصيص، واستخدام الوكلاء](https://www.mohdmohana.com/post/prompt-engineering-rag-tools-and-fine-tuning-ar/) — Feb 3, 2025
 - [Large Language Models, RAG, and Vector Databases: Building Intelligent AI Systems](https://www.mohdmohana.com/post/llm-rag-vector-databases-expertise/) — Jan 17, 2025
 <!-- BLOG-POST-LIST:END -->
