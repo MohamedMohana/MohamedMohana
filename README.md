@@ -74,35 +74,17 @@
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MohamedMohana/MohamedMohana/main/profile-summary-card-output/tokyonight/0-profile-details.svg">
-  <img src="https://raw.githubusercontent.com/MohamedMohana/MohamedMohana/main/profile-summary-card-output/default/0-profile-details.svg" width="100%" alt="Profile details">
-</picture>
+<img src="https://raw.githubusercontent.com/MohamedMohana/MohamedMohana/main/profile-summary-card-output/2077/0-profile-details.svg" width="100%" alt="Profile details">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MohamedMohana/MohamedMohana/main/profile-summary-card-output/tokyonight/3-stats.svg">
-  <img src="https://raw.githubusercontent.com/MohamedMohana/MohamedMohana/main/profile-summary-card-output/default/3-stats.svg" width="49%" alt="Stats">
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MohamedMohana/MohamedMohana/main/profile-summary-card-output/tokyonight/4-productive-time.svg">
-  <img src="https://raw.githubusercontent.com/MohamedMohana/MohamedMohana/main/profile-summary-card-output/default/4-productive-time.svg" width="49%" alt="Commit time of day">
-</picture>
+<img src="https://raw.githubusercontent.com/MohamedMohana/MohamedMohana/main/profile-summary-card-output/2077/3-stats.svg" width="49%" alt="Stats">
+<img src="https://raw.githubusercontent.com/MohamedMohana/MohamedMohana/main/profile-summary-card-output/2077/4-productive-time.svg" width="49%" alt="Commit time of day">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MohamedMohana/MohamedMohana/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg">
-  <img src="https://raw.githubusercontent.com/MohamedMohana/MohamedMohana/main/profile-summary-card-output/default/1-repos-per-language.svg" width="49%" alt="Repos per language">
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MohamedMohana/MohamedMohana/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg">
-  <img src="https://raw.githubusercontent.com/MohamedMohana/MohamedMohana/main/profile-summary-card-output/default/2-most-commit-language.svg" width="49%" alt="Most committed language">
-</picture>
+<img src="https://raw.githubusercontent.com/MohamedMohana/MohamedMohana/main/profile-summary-card-output/2077/1-repos-per-language.svg" width="49%" alt="Repos per language">
+<img src="https://raw.githubusercontent.com/MohamedMohana/MohamedMohana/main/profile-summary-card-output/2077/2-most-commit-language.svg" width="49%" alt="Most committed language">
 
 <br/><br/>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=MohamedMohana&theme=tokyonight&hide_border=true">
-  <img src="https://streak-stats.demolab.com?user=MohamedMohana&hide_border=true" alt="GitHub streak">
-</picture>
+<img src="https://streak-stats.demolab.com?user=MohamedMohana&hide_border=true&background=141321&ring=FCEE0C&fire=FCEE0C&currStreakNum=FCEE0C&sideNums=FCEE0C&currStreakLabel=00FFC8&sideLabels=00FFC8&dates=8B8B9E&stroke=00FFC8" alt="GitHub streak">
 
 </div>
 
